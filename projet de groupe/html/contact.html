@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <link rel="stylesheet" href="../css/style.css">
+        <link rel="stylesheet" href="../css/contact.css">
+    </head>
+    <body class="background-contact">
+        <header class="header-size">
+            <div class="header">                
+                <img class="logo" src="../img/logo.png" alt="logo site">
+                
+                <ul class="menu-header">
+                    <li class="bd"><a class="bd" href="../index.html">Accueil</a></li>
+                    <li class="bd" id="menu-hover">Nos packs
+                        <ul class="menu-hover">
+                            <div class="submenu">
+                                <li ><a class="bd" href="../html/racing.html">Page Conduite</a></li>
+                                <li ><a class="bd" href="../html/war.html">Page Guerre</a></li>
+                                <li ><a class="bd" href="../html/gaming.html">Page Gaming</a></li>
+                            </div>                            
+                        </ul>
+                    </li>
+                    <li><a class="bd" href="../html/contact.html">Contact</a></li>
+                    <li><a class="bd" href="../html/faq.html">F.A.Q</a></li>
+                    <div class="connect-container">
+                        <button class="connect">SE CONNECTER</button>
+                        <button class="subscribe">S'INSCRIRE</button>
+                    </div>
+                </ul>
+            </div>
+        </header>
+        <main class="contact-container">
+            <h1 class="page-title">Formulaire de contact</h1>
+            <div class="contact-form">                
+                <form class="form">
+                    <div class="form-flex">
+                        <div class="form-column">
+                            <label for="Nom"><h2>Nom</h2></label>
+                            <input type="text" id="Nom" name="Nom" required>
+                        </div>
+                        <div class="form-column">
+                            <label for="Prénom"><h2>Prénom</h2></label>
+                            <input class="form-input2" type="text" id="Prénom" name="Prénom" required>  
+                        </div>
+                    </div>                     
+                    <label for="E-mail"><h2>Adresse mail</h2></label>
+                    <input type="Adresse mail" id="Adresse mail" name="Adresse mail" required>
+                    <label for="Objet de la demande"><h2>Objet de la demande</h2></label>
+                    <input type="Objet de la demande" id="Objet de la demande" name="Objet de la demande" required>
+                    <label for="Message"><h2>Message</h2></label>
+                    <textarea name="Message" id="Message" cols="30" rows="10"></textarea>
+                    <div class="center-submit">
+                        <input class="submit" type="submit" value="Envoyer">
+                    </div>
+                </form>
+            </div>
+        </main>
+        <footer>
+            <ul class="footer-menu">
+                <li class="footer-link"><a href="">Conditions générales</a></li>
+                <li class="footer-link"><a href="">Cookies</a></li>
+                <li class="footer-link"><a href="">Aide</a></li>
+                <li class="footer-link"><a href="">Nos réseaux sociaux</a></li>
+                <li><a href=""><img onmouseover="socialHover(0)" class="social-media" src="../img/youtube.png" alt="Logo Youtube"></a></li>
+                <li><a href=""><img onmouseover="socialHover(1)" class="social-media" src="../img/instagram.png" alt="Logo Instagram"></a></li>
+                <li><a href=""><img onmouseover="socialHover(2)" class="social-media" src="../img/twitter.png" alt="Logo Twitter"></a></li>
+            </ul>
+        </footer>
+    </body>
+    <script async type="text/javascript" src="../js/index.js"></script>
+</html>

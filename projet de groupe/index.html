@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body class="background-accueil">
+        <header class="header-size">
+            <div class="header">                
+                <img class="logo" src="img/logo.png" alt="logo site">
+                <img onclick="burger()" class="burger-menu" src="img/burger.png" alt="icône menu burger">
+                <ul class="menu-header">
+                    <li class="bd"><a class="bd" href="index.html">Accueil</a></li>
+                    <li class="bd" id="menu-hover">Nos packs
+                        <ul class="menu-hover">
+                            <div class="submenu">
+                                <li ><a class="bd" href="html/racing.html">Page Conduite</a></li>
+                                <li ><a class="bd" href="html/war.html">Page Guerre</a></li>
+                                <li ><a class="bd" href="html/gaming.html">Page Gaming</a></li>
+                            </div>                            
+                        </ul>
+                    </li>
+                    <li><a class="bd" href="html/contact.html">Contact</a></li>
+                    <li><a class="bd" href="html/faq.html">F.A.Q</a></li>
+                    <div class="connect-container">
+                        <button class="connect">SE CONNECTER</button>
+                        <button class="subscribe">S'INSCRIRE</button>
+                    </div>                    
+                </ul>
+            </div>
+        </header>
+        <main>
+            <div class="main-flex">                  
+                <div class="accueil1">
+                    <div class="welcome-msg">
+                        <h2>Bienvenue sur Gaming simulator</h2>
+                        <p>Nous vendons des solutions
+                            "Ready top play" de simulation de course,de guerre et de gaming généraliste.
+                        </p>
+                        <p>Êtes vous prêt à <span class="pink">gagner?</span></p>
+                    </div>                
+                    <img class="welcome-image" src="img/accueil1.jpg" alt="image/jpg">
+                </div>
+                <div class="accueil2">
+                    <div class="div2">
+                        <p>Notre Pack Simulation de guerre
+                            a aidé plus de 100000  joueurs 
+                            à atteindre leurs objectifs.<br> 
+                            <span class="pink">Et vous ?</span>
+                        </p>
+                        <div class="align-buttons">
+                            <button class="button2"><a href="html/war.html">Découvrir nôtre pack</a></button>
+                        </div>                        
+                    </div>
+                    <img class="home-image" src="img/accueil2.png" alt="image 2">
+                </div>
+                <div class="accueil3">
+                    <div class="div3">
+                        <p>Explorez un Monde de Possibilités de Jeu avec notre PC Gamer de Haute Performance.<br>
+                            <span class="blue">Une Immersion Complète dans l'Action!</span> 
+                        </p>
+                        <div class="align-buttons">
+                            <button class="button3"><a href="html/gaming.html">Découvrir nôtre pack</a></button>
+                        </div>                        
+                    </div>                                                         
+                </div>
+                <div class="accueil4">
+                    <div class="div4">
+                        <p>Vous recherchez un volant complet moins cher ? 
+                        Alors vous êtes dans le bon magasin ! 
+                        </p>
+                        <div class="align-buttons">
+                            <button class="button4"><a href="html/racing.html">Découvrir nôtre pack</a></button>
+                        </div>                        
+                    </div>
+                    <img class="home-image" style="transform: scaleX(-1);" src="img/accueil4.png" alt="image 4">            
+                </div>
+            </div>
+        </main>
+        <footer>
+            <ul class="footer-menu">
+                <li class="footer-link"><a class="bd" href="">Conditions générales</a></li>
+                <li class="footer-link"><a class="bd" href="">Cookies</a></li>
+                <li class="footer-link"><a class="bd" href="">Aide</a></li>
+                <li class="footer-link"><a class="bd" href="">Nos réseaux sociaux</a></li>
+                <li><a href=""><img onmouseover="socialHover(0)" class="social-media" src="img/youtube.png" alt="Logo Youtube"></a></li>
+                <li><a href=""><img onmouseover="socialHover(1)" class="social-media" src="img/instagram.png" alt="Logo Instagram"></a></li>
+                <li><a href=""><img onmouseover="socialHover(2)" class="social-media" src="img/twitter.png" alt="Logo Twitter"></a></li>
+            </ul>
+        </footer>
+    </body>
+    <script async type="text/javascript" src="js/index.js"></script>
+</html>

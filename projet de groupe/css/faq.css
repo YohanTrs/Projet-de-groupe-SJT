@@ -1,0 +1,23 @@
+.background-faq{
+    background-image: url(../img/Untitled-1.png); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+}
+.premiere{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(255, 255, 255,0.7);
+    width: 1244px;
+    height: 800px;
+    font-size: 18px;
+    padding: 50px;
+    justify-content: center;
+    border-radius: 50px;
+    height: fit-content;     
+}
+.tout{
+    display: flex;
+    justify-content: center;
+    color: black;
+}
