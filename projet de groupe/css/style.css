@@ -468,21 +468,33 @@ button {
     }
 }
 
-.inscription{
+.inscription, .connexion{
+    width: 600px;
+    padding-top: 20px;
+    height: fit-content;
     background-color: rgba(0, 238, 255, 85%) ;
     color: #bf09f1;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     display: flex;
-    justify-content: right;
+    /* justify-content: right; */
     align-items: center;
     flex-direction: column;
-    margin-top: 180px;
-    padding: 20px;
+    /* margin-top: 180px; */
+    /* padding: 20px; */
+    border: #bf09f1 solid 7px;
     border-radius: 25px;
-    position: absolute;
-    left: 40%;
-    top: 25%;
+    box-shadow: #bf09f1 0px 0px 30px 5px;
+    /* position: absolute;
+    left: 35%;
+    top: 25%; */
     font-size: 18px;
+    gap: 10px;
+}
+.inputo{
+    width: 250px;
+    border-radius: 50px;
+    background-color:white;
+    border: #bf09f1 2px solid;
 }
 .inscription > * {
     margin: 3px;
@@ -490,12 +502,39 @@ button {
 .inscription h3 {
     margin: 0 5px ;
 }
+.inscription{
+    position: absolute;
+    left: 55%;
+    top: 25%;
+}
+.connexion{
+    position: absolute;
+    left: 10%;
+    top: 30%;
+}
 .dd{
     display: flex;
     justify-content: space-around;
+    gap: 50px;
 }
 .modal {
     display: flex;
     font-size: 12px;
     gap: 15px;
+}
+.miniradio{
+    display: flex;
+}
+.buttonic{
+    width: 200px;
+    height: 30px;
+    background-color: rgba(0, 238, 255, 85%);
+    border: #bf09f1 5px solid; 
+}
+.buttonic:hover{
+    background-color: #bf09f1;
+    color: white;
+}
+.whitet{
+    color: white;
 }
