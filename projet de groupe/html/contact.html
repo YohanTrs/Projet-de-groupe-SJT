@@ -4,14 +4,13 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Document</title>
-        <link rel="stylesheet" href="../css/style.css">
-        <link rel="stylesheet" href="../css/contact.css">
+        <link rel="stylesheet" href="../css/style.css">        
     </head>
     <body class="background-contact">
         <header class="header-size">
             <div class="header">                
                 <img class="logo" src="../img/logo.png" alt="logo site">
-                
+                <img onclick="burger()" class="burger-menu" src="../img/burger.png" alt="icône menu burger">
                 <ul class="menu-header">
                     <li class="bd"><a class="bd" href="../index.html">Accueil</a></li>
                     <li class="bd" id="menu-hover">Nos packs
@@ -35,17 +34,11 @@
         <main class="contact-container">
             <h1 class="page-title">Formulaire de contact</h1>
             <div class="contact-form">                
-                <form class="form">
-                    <div class="form-flex">
-                        <div class="form-column">
-                            <label for="Nom"><h2>Nom</h2></label>
-                            <input type="text" id="Nom" name="Nom" required>
-                        </div>
-                        <div class="form-column">
-                            <label for="Prénom"><h2>Prénom</h2></label>
-                            <input class="form-input2" type="text" id="Prénom" name="Prénom" required>  
-                        </div>
-                    </div>                     
+                <form class="form">                        
+                    <label for="Nom"><h2>Nom</h2></label>
+                    <input type="text" id="Nom" name="Nom" required>                   
+                    <label for="Prénom"><h2>Prénom</h2></label>
+                    <input class="form-input2" type="text" id="Prénom" name="Prénom" required>                                     
                     <label for="E-mail"><h2>Adresse mail</h2></label>
                     <input type="Adresse mail" id="Adresse mail" name="Adresse mail" required>
                     <label for="Objet de la demande"><h2>Objet de la demande</h2></label>
