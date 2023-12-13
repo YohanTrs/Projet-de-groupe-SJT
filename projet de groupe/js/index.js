@@ -27,3 +27,24 @@ function burger() {
     }
 }
 
+let subscribeBox = document.querySelector(".inscription");
+subscribeBox.style.display = "none";
+
+function subscribe() {
+    if (subscribeBox.style.display == "none") {
+        subscribeBox.style.display = "flex";
+    } else {
+        subscribeBox.style.display = "none";
+    }
+}
+
+let connectBox = document.querySelector(".connexion");
+connectBox.style.display = "none";
+
+function connect() {
+    if (connectBox.style.display == "none") {
+        connectBox.style.display = "flex";
+    } else {
+        connectBox.style.display = "none";
+    }
+}connectBox
