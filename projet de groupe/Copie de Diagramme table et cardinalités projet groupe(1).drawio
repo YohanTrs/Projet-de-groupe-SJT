@@ -1,0 +1,154 @@
+<mxfile host="app.diagrams.net" modified="2023-12-21T14:25:11.057Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="xZyCxofP9sfxMOcBIdEs" version="22.1.11" type="google">
+  <diagram name="Page-1" id="D9bwcX6EVRfgCLJsTO5L">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WkG66QfVkmnQMRpT89hV-13" value="&lt;br&gt;&lt;table style=&quot;border-collapse:&lt;br/&gt; collapse;width:111pt&quot; width=&quot;148&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt; &lt;colgroup&gt;&lt;col style=&quot;mso-width-source:userset;mso-width-alt:5412;width:111pt&quot; width=&quot;148&quot;&gt;&lt;/colgroup&gt; &lt;tbody&gt;&lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;width:111pt&quot; width=&quot;148&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;id_utilisateur&lt;br&gt;nom_utilisateur&lt;br&gt;prenom_utilisateur&lt;br&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;pseudo_utilisateur&lt;table style=&quot;border-color: var(--border-color); width: 111pt;&quot; width=&quot;148&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody style=&quot;border-color: var(--border-color);&quot;&gt;&lt;tr style=&quot;border-color: var(--border-color); height: 15pt;&quot; height=&quot;20&quot;&gt;&lt;td style=&quot;border-top: none; border-right-color: ; border-bottom-color: ; border-left-color: ; height: 15pt;&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;role&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;email_utilisateur&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;mot_de_passe_utilisateur&lt;br&gt;adresse_livraison&lt;br&gt;moyen_paiement&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="822" y="399" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-14" value="&lt;br&gt;&lt;table style=&quot;border-collapse:&lt;br/&gt; collapse;width:111pt&quot; width=&quot;148&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt; &lt;colgroup&gt;&lt;col style=&quot;mso-width-source:userset;mso-width-alt:5412;width:111pt&quot; width=&quot;148&quot;&gt;&lt;/colgroup&gt; &lt;tbody&gt;&lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;width:111pt&quot; width=&quot;148&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;reference_produit&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;quantite_produit&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;prix_produit&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;&lt;br&gt;code_promo&lt;br&gt;&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="1418" y="400" width="152" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-15" value="&lt;br&gt;&lt;table style=&quot;border-collapse:&lt;br/&gt; collapse;width:111pt&quot; width=&quot;148&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt; &lt;colgroup&gt;&lt;col style=&quot;mso-width-source:userset;mso-width-alt:5412;width:111pt&quot; width=&quot;148&quot;&gt;&lt;/colgroup&gt; &lt;tbody&gt;&lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;width:111pt&quot; width=&quot;148&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;id_formulaire&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;objet_demande&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;message_formulaire&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="820" y="856" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-16" value="Contacter" style="ellipse;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="850" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-17" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="905" y="560" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-18" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="905" y="720" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-19" value="Achat" style="ellipse;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="429" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-20" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="982" y="465" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-21" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1259" y="465" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-22" value="0,n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="447" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-23" value="0,n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="446" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-24" value="0,n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="901" y="733" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-25" value="1,1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="900" y="598" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-26" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;prix_total&lt;br&gt;&lt;table style=&quot;border-collapse:&lt;br/&gt; collapse;width:111pt&quot; width=&quot;148&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt; &lt;colgroup&gt;&lt;col style=&quot;mso-width-source:userset;mso-width-alt:5412;width:111pt&quot; width=&quot;148&quot;&gt;&lt;/colgroup&gt; &lt;tbody&gt;&lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;width:111pt&quot; width=&quot;148&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;&lt;br&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;&lt;br&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;&lt;br&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;&lt;br&gt;&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="1815" y="380" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-27" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="465" width="62" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-28" value="commande" style="ellipse;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="1632" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-29" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1752" y="464" width="62" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-30" value="1,n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1581" y="434" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-31" value="1,1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="434" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-32" value="&lt;br&gt;&lt;br&gt;&lt;table style=&quot;border-collapse:&lt;br/&gt; collapse;width:111pt&quot; width=&quot;148&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt; &lt;colgroup&gt;&lt;col style=&quot;mso-width-source:userset;mso-width-alt:5412;width:111pt&quot; width=&quot;148&quot;&gt;&lt;/colgroup&gt; &lt;tbody&gt;&lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;width:111pt&quot; width=&quot;148&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;id_utilisateur&lt;br&gt;nom_utilisateur&lt;br&gt;prenom_utilisateur&lt;br&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;pseudo_utilisateur&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;email_utilisateur&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;mot_de_passe_utilisateur&lt;br&gt;adresse_livraison&lt;br&gt;moyen_paiement&lt;br&gt;role&lt;br&gt;&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1240" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-33" value="&lt;br&gt;&lt;br&gt;&lt;table style=&quot;border-collapse:&lt;br/&gt; collapse;width:111pt&quot; width=&quot;148&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt; &lt;colgroup&gt;&lt;col style=&quot;mso-width-source:userset;mso-width-alt:5412;width:111pt&quot; width=&quot;148&quot;&gt;&lt;/colgroup&gt; &lt;tbody&gt;&lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;width:111pt&quot; width=&quot;148&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;id_formulaire&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;objet_demande&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;message_formulaire&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;#id_utilisateur&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1235" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-34" value="&lt;br&gt;&lt;table style=&quot;border-collapse:&lt;br/&gt; collapse;width:111pt&quot; width=&quot;148&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt; &lt;colgroup&gt;&lt;col style=&quot;mso-width-source:userset;mso-width-alt:5412;width:111pt&quot; width=&quot;148&quot;&gt;&lt;/colgroup&gt; &lt;tbody&gt;&lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;width:111pt&quot; width=&quot;148&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;reference_produit&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;quantite_produit&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;prix_produit&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;&lt;br&gt;code_promo&lt;br&gt;&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="1592.5" y="1230" width="155" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-35" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;br&gt;id_facture&lt;br&gt;prix_total&lt;br&gt;#id_commande&lt;br&gt;&lt;table style=&quot;border-collapse:&lt;br/&gt; collapse;width:111pt&quot; width=&quot;148&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt; &lt;colgroup&gt;&lt;col style=&quot;mso-width-source:userset;mso-width-alt:5412;width:111pt&quot; width=&quot;148&quot;&gt;&lt;/colgroup&gt; &lt;tbody&gt;&lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;width:111pt&quot; width=&quot;148&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;&lt;br&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;&lt;br&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;&lt;br&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;&lt;br&gt;&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="1231.5" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-36" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;id_achat&lt;br&gt;#id_utilisateur&lt;br&gt;#reference_produit&lt;br&gt;&lt;table style=&quot;border-collapse:&lt;br/&gt; collapse;width:111pt&quot; width=&quot;148&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt; &lt;colgroup&gt;&lt;col style=&quot;mso-width-source:userset;mso-width-alt:5412;width:111pt&quot; width=&quot;148&quot;&gt;&lt;/colgroup&gt; &lt;tbody&gt;&lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;width:111pt&quot; width=&quot;148&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;&lt;br&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;&lt;br&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;&lt;br&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;&lt;br&gt;&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="1235" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-37" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;br&gt;id_commande&lt;br&gt;#reference_produit&lt;br&gt;&lt;table style=&quot;border-collapse:&lt;br/&gt; collapse;width:111pt&quot; width=&quot;148&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt; &lt;colgroup&gt;&lt;col style=&quot;mso-width-source:userset;mso-width-alt:5412;width:111pt&quot; width=&quot;148&quot;&gt;&lt;/colgroup&gt; &lt;tbody&gt;&lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;width:111pt&quot; width=&quot;148&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;&lt;br&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;&lt;br&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;&lt;br&gt;&lt;/td&gt; &lt;/tr&gt; &lt;tr style=&quot;height:15.0pt&quot; height=&quot;20&quot;&gt;  &lt;td style=&quot;height:15.0pt;border-top:none&quot; class=&quot;xl65&quot; height=&quot;20&quot;&gt;&lt;br&gt;&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="1232.5" width="155" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-38" value="formulaire de contact" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1174" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-39" value="Utilisateur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1180" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-40" value="achat" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="1174" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-41" value="produit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="1591.5" y="1170" width="157.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-42" value="commande" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="1832" y="1176.5" width="151" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-43" value="facture&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="2111" y="1170" width="157.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.005;entryY=0.422;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WkG66QfVkmnQMRpT89hV-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="1307.37" as="sourcePoint" />
+            <mxPoint x="1055.6400000000003" y="1306.9699999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.005;entryY=0.422;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220" y="1314.4699999999998" as="sourcePoint" />
+            <mxPoint x="1341" y="1315.1" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.005;entryY=0.422;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1500" y="1308" as="sourcePoint" />
+            <mxPoint x="1592.5" y="1307.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1749.75" y="1309.4721875" as="sourcePoint" />
+            <mxPoint x="1832.25" y="1309.73" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2110" y="1306" as="sourcePoint" />
+            <mxPoint x="1983.5" y="1306.26" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-49" value="formulaire de contact" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="820" y="795" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-50" value="Utilisateur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="822" y="338" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-51" value="produit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="1418" y="340" width="152" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-52" value="facture&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="1815" y="320" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-53" value="&lt;div&gt;numero_facture&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-54" value="&lt;font color=&quot;#009999&quot; style=&quot;font-size: 35px;&quot;&gt;Modèle conceptuel des données&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="70" width="1210" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="WkG66QfVkmnQMRpT89hV-55" value="&lt;font color=&quot;#009999&quot; style=&quot;font-size: 35px;&quot;&gt;Modèle logique des données&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="942.5" y="980" width="925" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
