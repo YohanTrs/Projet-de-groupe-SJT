@@ -28,21 +28,28 @@
                     <div class="connect-container">
                         <button onclick="connect()" class="connect">SE CONNECTER</button>
                         <button onclick="subscribe()" class="subscribe">S'INSCRIRE</button>
+                        <form class="" action="deconnexion.php" method="post">
+                            <input type="submit" value="deconnexion">
+                        </form>
                     </div>
                     <?php
                    
                     ?>
                     <div id="inscription">
-                        <form class="inscription" action="verification.php" method="post">
+                        <form class="inscription" action="verif_ins.php" method="post">
                             <h2>Inscription</h2>
                             <label for="text">Nom d'utilisateur</label>
-                            <input class="inputo" type="text" id="name" name="pseudo">
+                            <input class="inputo" type="text" id="name" name="nom_utilisateur">
                             <label for="email">Email</label>
-                            <input class="inputo" type="email" id="mail" name="mail" >
+                            <input class="inputo" type="email" id="mail" name="email_utilisateur" >
                             <label for="password">mot de passe</label>
-                            <input class="inputo" type="password" id="password" name="password">
+                            <input class="inputo" type="password" id="password" name="mot_de_passe_utilisateur">
                             <label for="password">Confirmer votre mot de passe</label>
-                            <input class="inputo" type="password" id="confirm-password" name="confirm_password">
+                            <!-- <input class="inputo" type="password" id="confirm-password" name="confirm_password"> -->
+                            <!-- <input type="hidden" name="last_name">
+                            <input type="hidden" name="address">
+                            <input type="hidden" name="paiement">
+                            <input type="hidden" name="role"> -->
                             <div class="dd">
                                 <div class="miniradio">
                                     <input type="radio"><a href=""></a>
@@ -61,12 +68,12 @@
                         </form> 
                     </div>
                     <div id="connexion">
-                        <form class="connexion" action="verification.php" method="post">
+                        <form class="connexion" action="verif_co.php" method="post">
                             <h2>Connexion</h2>
                             <label for="email">Email</label>
-                            <input class="inputo" type="email" id="mail" name="mail">
+                            <input class="inputo" type="email" id="mail" name="email_utilisateur">
                             <label for="password">mot de passe</label>
-                            <input class="inputo" type="password" id="password" name="password">
+                            <input class="inputo" type="password" id="password" name="mot_de_passe_utilisateur">
                             <div class="dd">
                                 <div class="miniradio">
                                     <input type="radio"><a href=""></a>
@@ -80,6 +87,7 @@
                                 <p>s'inscrire</p>
                             </div>
                         </form>
+                      
                     </div>                              
                 </ul>
             </div>
